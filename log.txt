@@ -1,0 +1,29 @@
+[
+   {
+      "letters": [
+         "U",
+         "T",
+         "O",
+         "Y",
+         "S",
+         "D",
+         "R",
+         "Y",
+         "C"
+      ],
+      "words": [
+         "COD",
+         "COT",
+         "CRY",
+         "CUT",
+         "DOT",
+         "DRY",
+         "DUST",
+         "RUST",
+         "SORT",
+         "TOR",
+         "TRY"
+      ],
+      "score": 57
+   }
+]
